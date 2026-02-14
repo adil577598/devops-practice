@@ -1,6 +1,6 @@
 # Git Commands
 
-1. git init - Initializes a repository
+1. git init - Initializes a new local Git repository
 2. git status - Shows current status
 3. git add - Adds files to staging
 4. git commit - Saves changes
